@@ -1,0 +1,37 @@
+.about {
+  display: flex;
+  color: white;
+  padding: 12rem 0;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.about li {
+  list-style: none;
+}
+
+.education {
+  text-align: start;
+}
+
+.col {
+  padding: 0 !important;
+}
+
+.education-list{
+  padding: 18px;
+}
+.education, .skills-container, .skills-container h3{
+  padding: 0 18px;
+}
+.skill {
+  margin-bottom: 15px;
+}
+.skill-list {
+  display: flex;
+}
+
+.skill-list li {
+  margin-right: 5px;
+}
